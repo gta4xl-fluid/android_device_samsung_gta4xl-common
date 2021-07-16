@@ -42,3 +42,6 @@ DEVICE_PACKAGE_OVERLAYS += \
 PRODUCT_ENFORCE_RRO_TARGETS += *
 
 include $(PLATFORM_PATH)/platform/*.mk
+
+# Inherit private keys
+include vendor/a2l5/keys.mk
