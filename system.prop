@@ -10,6 +10,10 @@ ro.cmc.version=2.0
 ### CHARGER
 ro.charger.enable_suspend=true
 
+### FLUID
+ro.fluid.cpu=Exynos9611
+ro.fluid.maintainer=A2L5E0X1
+
 ### KEYSTORE
 ro.security.keystore.keytype=sak,gak
 
